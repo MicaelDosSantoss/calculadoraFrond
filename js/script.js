@@ -1,5 +1,2 @@
-const a = document.querySelector('a')
+const number = document.querySelectorAll('.column-number .number')
 
-a.addEventListener('click', () => {
-    console.log('teste')
-})
