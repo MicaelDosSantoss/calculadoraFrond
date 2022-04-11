@@ -5,6 +5,12 @@
     border-radius:20px;
 }
 
+p{
+    font-size: 19px;
+    margin-bottom: 0px;
+    padding: 5px;
+}
+
 .visor{
     border: 1px solid black;
     width: 90%;
